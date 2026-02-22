@@ -155,8 +155,7 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-**Ashwini Kumar Sahu**  
-Aspiring Data Science  
+**Ashwini Kumar Sahu**   
 
 - LinkedIn: https://www.linkedin.com/in/ashwini-kumar-sahu-0520b52b8 
 - GitHub: https://github.com/Itz-Pini 
